@@ -9,6 +9,10 @@
 
 官网教程的也很详细了，地址在这里：[https://docsify.js.org/#/zh-cn/quickstart](https://docsify.js.org/#/zh-cn/quickstart) ，不过我的这篇教程比较贴合实际使用。
 
+下面演示的所有内容的源文件在这里：https://github.com/Snailclimb/docsify-demo
+
+最终效果展示地址：https://snailclimb.gitee.io/docsify-demo/#/
+
 ## 一.前置条件
 
 1. 确保自己电脑下载安装了 NPM 并且使用这个命令： `npm i docsify-cli -g`安装了 docsify-cli 这个工具 。
